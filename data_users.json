@@ -1,0 +1,122 @@
+{
+  "citizens": [
+    {
+      "id": "CIT-101",
+      "name": "Amit Patel",
+      "phone": "+91 98111 22334",
+      "email": "amit.patel@gmail.com",
+      "role": "citizen",
+      "passwordHash": "099c7c414339cfad6d759ff4cc5f0cbc42c3d98e8c05558a9a4108666134d0a8"
+    },
+    {
+      "id": "CIT-102",
+      "name": "Sneha Mukherjee",
+      "phone": "+91 98222 33445",
+      "email": "sneha.m@outlook.com",
+      "role": "citizen",
+      "passwordHash": "099c7c414339cfad6d759ff4cc5f0cbc42c3d98e8c05558a9a4108666134d0a8"
+    },
+    {
+      "id": "CIT-809",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795518072254@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    },
+    {
+      "id": "CIT-962",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795518175331@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    },
+    {
+      "id": "CIT-979",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795518236393@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    },
+    {
+      "id": "CIT-712",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795520103393@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    },
+    {
+      "id": "CIT-666",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795520139380@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    },
+    {
+      "id": "CIT-143",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795525981459@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    },
+    {
+      "id": "CIT-263",
+      "name": "Test Citizen",
+      "email": "test.citizen.1795526220380@citizen.in",
+      "phone": "+91 98111 99999",
+      "role": "citizen",
+      "passwordHash": "dbf6ceae8f0233bfed1d9aee3f33ad3964e6380fea3b1b315e98b8a9ef00e951"
+    }
+  ],
+  "officers": [
+    {
+      "id": "OFF-8412",
+      "name": "Inspector R. K. Sharma",
+      "badge": "DL-CY-8412",
+      "email": "r.sharma@delhipolice.gov.in",
+      "rank": "Senior Cyber Crime Investigator",
+      "unit": "Cyber Crime Police Station, Central District",
+      "role": "police",
+      "policeRole": "investigator",
+      "passwordHash": "9653a1fdc0840918c86a9c7c00778ee2640dff25391d99205c2274709264874b"
+    },
+    {
+      "id": "OFF-1002",
+      "name": "ACP Sunita Rao",
+      "badge": "DL-CY-1002",
+      "email": "sunita.rao@delhipolice.gov.in",
+      "rank": "Assistant Commissioner of Police",
+      "unit": "Special Cyber Crime Investigation Cell (IFSO)",
+      "role": "police",
+      "policeRole": "admin",
+      "passwordHash": "9653a1fdc0840918c86a9c7c00778ee2640dff25391d99205c2274709264874b"
+    },
+    {
+      "id": "OFF-3390",
+      "name": "Sub-Inspector Priya Sen",
+      "badge": "DL-CY-3390",
+      "email": "priya.sen@statecyber.gov.in",
+      "rank": "Cyber Forensic & Malware Analyst",
+      "unit": "State Cyber Threat Intelligence Division",
+      "role": "police",
+      "policeRole": "investigator",
+      "passwordHash": "9653a1fdc0840918c86a9c7c00778ee2640dff25391d99205c2274709264874b"
+    },
+    {
+      "id": "OFF-4491",
+      "name": "Adv. P. Verma",
+      "badge": "DL-LE-4491",
+      "email": "p.verma@prosecution.gov.in",
+      "rank": "Special Public Prosecutor (Cyber Laws)",
+      "unit": "Directorate of Prosecution, Cyber Law Advisory",
+      "role": "police",
+      "policeRole": "prosecutor",
+      "passwordHash": "9653a1fdc0840918c86a9c7c00778ee2640dff25391d99205c2274709264874b"
+    }
+  ]
+}
